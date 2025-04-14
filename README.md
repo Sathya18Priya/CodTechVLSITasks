@@ -1,6 +1,6 @@
  *Company Name* = CODTECH IT SOLUTIONS<br>
  *Name*         = SATHYAPRIYA T<br>
- *Intern ID*    = COD123<br>
+ *Intern ID*    = CTO6WF70<br>
  *Domain*       = VLSI<br>
  *Duration*     = 6 Weeks<br>
  *Mentor*       = NEELA SANTOSH<br>
